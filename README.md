@@ -104,6 +104,7 @@ pnpm deploy
 
 ## 使用方法
 
+0. 在项目根目录创建.env文件,并配置环境变量 ADMIN_USERNAME=admin ,ADMIN_PASSWORD=admin123
 1. 访问应用首页
 2. 点击"API 管理"创建新的 API
 3. 填写 API 基本信息并编写 SQL 查询
